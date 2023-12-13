@@ -48,8 +48,6 @@ namespace TRPZ_Cursach_WinForm
                 dataGridView1.DataSource = ds.Tables[0];
                 dataGridView1.ReadOnly = true;
             }
-            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView1.AllowUserToAddRows = false;
         }
 
         private void Login_Button_Click(object sender, EventArgs e)

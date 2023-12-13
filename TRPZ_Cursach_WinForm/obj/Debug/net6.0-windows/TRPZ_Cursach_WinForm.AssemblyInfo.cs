@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TRPZ_Cursach_WinForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+444de2121792d82d2a3ea6f21affc64552392aef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+059eabeadeaef854f367c476ced38711a19a08c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TRPZ_Cursach_WinForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TRPZ_Cursach_WinForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZF9xc2XES2NSBNd1Bdf7KOXFos3jk6tNQFx2gU9xLal2ty6Yz7QKz5SupAUX/0/SX5LSz4fjvWdClr5gkH+HiA==",
+  "dgSpecHash": "1umRc9vxjWWsuphaXe+REmPVaeA3fC63pPXtAVs5wlmxoeYjoxmy1CiiStWzuVsrBx18OUu47oxwTBPl9TCMEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xxxse\\Desktop\\Технологія розробки програмного забезпечення\\TRPZ_Kursach\\TRPZ_Cursach_WinForm\\TRPZ_Cursach_WinForm.csproj",
+  "projectFilePath": "C:\\Users\\xxxse\\Desktop\\TRPZ_Kursach\\TRPZ_Cursach_WinForm\\TRPZ_Cursach_WinForm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xxxse\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\xxxse\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
